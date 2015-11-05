@@ -1,0 +1,386 @@
+
+	.divCalendar, .divCalendar a{
+		background-color: #FFFFFF;
+		
+	}
+	.divCalendar a{
+		display:block;
+	}
+	.divCalendar a:hover {
+		background-color: #F5F8FE;
+		cursor:default;
+	}
+	
+.modalDialog {
+	position: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+	z-index: 99999;
+	opacity:0;
+	-webkit-transition: opacity 400ms ease-in;
+	-moz-transition: opacity 400ms ease-in;
+	transition: opacity 400ms ease-in;
+	pointer-events: none;
+}
+.modalDialog2 {
+	position: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+	z-index: 99999;
+	opacity:0;
+	-webkit-transition: opacity 400ms ease-in;
+	-moz-transition: opacity 400ms ease-in;
+	transition: opacity 400ms ease-in;
+	pointer-events: none;
+}
+.modalDialog3{
+	position: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+	z-index: 99999;
+	opacity:0;
+	-webkit-transition: opacity 400ms ease-in;
+	-moz-transition: opacity 400ms ease-in;
+	transition: opacity 400ms ease-in;
+	pointer-events: none;
+}
+.modalDialog:target {
+	opacity:1;
+	pointer-events: auto;
+}
+.modalDialog2:target {
+	opacity:1;
+	pointer-events: auto;
+}
+.modalDialog3:target {
+	opacity:1;
+	pointer-events: auto;
+}
+
+.modalDialog > div {
+	width: 50%;
+	position: relative;
+	margin: 5% auto;
+	padding: 5px 20px 13px 20px;
+	border-radius: 10px;
+	background: #fff;
+	background: -moz-linear-gradient(#fff, #F5F8FE);
+	background: -webkit-linear-gradient(#fff, #F5F8FE);
+	background: -o-linear-gradient(#fff, #F5F8FE);
+}
+
+.modalDialog2 > div {
+	width: 80%;
+	position: relative;
+	margin: 5% auto;
+	padding: 5px 20px 13px 20px;
+	border-radius: 10px;
+	background: #fff;
+	background: -moz-linear-gradient(#fff, #F5F8FE);
+	background: -webkit-linear-gradient(#fff, #F5F8FE);
+	background: -o-linear-gradient(#fff, #F5F8FE);
+}
+
+.modalDialog3 > div {
+	width: 40%;
+	position: relative;
+	margin: 5% auto;
+	padding: 5px 20px 13px 20px;
+	border-radius: 10px;
+	background: #fff;
+	background: -moz-linear-gradient(#fff, #fff);
+	background: -webkit-linear-gradient(#fff, #fff);
+	background: -o-linear-gradient(#fff, #fff);
+}
+
+/* baby green */
+
+.btn-lime { 
+  color: #FFFFFF; 
+  background-color: #A2E887; 
+  border-color: #A2E887; 
+} 
+ 
+.btn-lime:hover, 
+.btn-lime:focus, 
+.btn-lime:active, 
+.btn-lime.active, 
+.open .dropdown-toggle.btn-lime { 
+  color: #FFFFFF; 
+  background-color: #1C993D; 
+  border-color: #A2E887; 
+} 
+ 
+.btn-lime:active, 
+.btn-lime.active, 
+.open .dropdown-toggle.btn-lime { 
+  background-image: none; 
+} 
+ 
+.btn-lime.disabled, 
+.btn-lime[disabled], 
+fieldset[disabled] .btn-lime, 
+.btn-lime.disabled:hover, 
+.btn-lime[disabled]:hover, 
+fieldset[disabled] .btn-lime:hover, 
+.btn-lime.disabled:focus, 
+.btn-lime[disabled]:focus, 
+fieldset[disabled] .btn-lime:focus, 
+.btn-lime.disabled:active, 
+.btn-lime[disabled]:active, 
+fieldset[disabled] .btn-lime:active, 
+.btn-lime.disabled.active, 
+.btn-lime[disabled].active, 
+fieldset[disabled] .btn-lime.active { 
+  background-color: #A2E887; 
+  border-color: #A2E887; 
+} 
+ 
+.btn-lime .badge { 
+  color: #A2E887; 
+  background-color: #FFFFFF; 
+}
+
+/* WHITE RED */
+
+.btn-whiteRed { 
+  color: #FF0000; 
+  background-color: #FFFFFF; 
+  border-color: #FF0000; 
+} 
+ 
+.btn-whiteRed:hover, 
+.btn-whiteRed:focus, 
+.btn-whiteRed:active, 
+.btn-whiteRed.active, 
+.open .dropdown-toggle.btn-whiteRed { 
+  color: #FF0000; 
+  background-color: #FF8C8C; 
+  border-color: #FF0000; 
+} 
+ 
+.btn-whiteRed:active, 
+.btn-whiteRed.active, 
+.open .dropdown-toggle.btn-whiteRed { 
+  background-image: none; 
+} 
+ 
+.btn-whiteRed.disabled, 
+.btn-whiteRed[disabled], 
+fieldset[disabled] .btn-whiteRed, 
+.btn-whiteRed.disabled:hover, 
+.btn-whiteRed[disabled]:hover, 
+fieldset[disabled] .btn-whiteRed:hover, 
+.btn-whiteRed.disabled:focus, 
+.btn-whiteRed[disabled]:focus, 
+fieldset[disabled] .btn-whiteRed:focus, 
+.btn-whiteRed.disabled:active, 
+.btn-whiteRed[disabled]:active, 
+fieldset[disabled] .btn-whiteRed:active, 
+.btn-whiteRed.disabled.active, 
+.btn-whiteRed[disabled].active, 
+fieldset[disabled] .btn-whiteRed.active { 
+  background-color: #FFFFFF; 
+  border-color: #FF0000; 
+} 
+ 
+.btn-whiteRed .badge { 
+  color: #FFFFFF; 
+  background-color: #FF0000; 
+}
+
+/*white blue*/
+.btn-whiteBlue { 
+  color: #0909E6; 
+  background-color: #FFFFFF; 
+  border-color: #0909E6; 
+} 
+ 
+.btn-whiteBlue:hover, 
+.btn-whiteBlue:focus, 
+.btn-whiteBlue:active, 
+.btn-whiteBlue.active, 
+.open .dropdown-toggle.btn-whiteBlue { 
+  color: #0909E6; 
+  background-color: #8C9BFF; 
+  border-color: #0909E6; 
+} 
+ 
+.btn-whiteBlue:active, 
+.btn-whiteBlue.active, 
+.open .dropdown-toggle.btn-whiteBlue { 
+  background-image: none; 
+} 
+ 
+.btn-whiteBlue.disabled, 
+.btn-whiteBlue[disabled], 
+fieldset[disabled] .btn-whiteBlue, 
+.btn-whiteBlue.disabled:hover, 
+.btn-whiteBlue[disabled]:hover, 
+fieldset[disabled] .btn-whiteBlue:hover, 
+.btn-whiteBlue.disabled:focus, 
+.btn-whiteBlue[disabled]:focus, 
+fieldset[disabled] .btn-whiteBlue:focus, 
+.btn-whiteBlue.disabled:active, 
+.btn-whiteBlue[disabled]:active, 
+fieldset[disabled] .btn-whiteBlue:active, 
+.btn-whiteBlue.disabled.active, 
+.btn-whiteBlue[disabled].active, 
+fieldset[disabled] .btn-whiteBlue.active { 
+  background-color: #FFFFFF; 
+  border-color: #0909E6; 
+} 
+ 
+.btn-whiteBlue .badge { 
+  color: #FFFFFF; 
+  background-color: #0909E6; 
+}
+/*whiteGreen*/
+.btn-whiteGreen { 
+  color: #00A318; 
+  background-color: #FFFFFF; 
+  border-color: #00A318; 
+} 
+ 
+.btn-whiteGreen:hover, 
+.btn-whiteGreen:focus, 
+.btn-whiteGreen:active, 
+.btn-whiteGreen.active, 
+.open .dropdown-toggle.btn-whiteGreen { 
+  color: #00A318; 
+  background-color: #97DBA1; 
+  border-color: #00A318; 
+} 
+ 
+.btn-whiteGreen:active, 
+.btn-whiteGreen.active, 
+.open .dropdown-toggle.btn-whiteGreen { 
+  background-image: none; 
+} 
+ 
+.btn-whiteGreen.disabled, 
+.btn-whiteGreen[disabled], 
+fieldset[disabled] .btn-whiteGreen, 
+.btn-whiteGreen.disabled:hover, 
+.btn-whiteGreen[disabled]:hover, 
+fieldset[disabled] .btn-whiteGreen:hover, 
+.btn-whiteGreen.disabled:focus, 
+.btn-whiteGreen[disabled]:focus, 
+fieldset[disabled] .btn-whiteGreen:focus, 
+.btn-whiteGreen.disabled:active, 
+.btn-whiteGreen[disabled]:active, 
+fieldset[disabled] .btn-whiteGreen:active, 
+.btn-whiteGreen.disabled.active, 
+.btn-whiteGreen[disabled].active, 
+fieldset[disabled] .btn-whiteGreen.active { 
+  background-color: #FFFFFF; 
+  border-color: #00A318; 
+} 
+ 
+.btn-whiteGreen .badge { 
+  color: #FFFFFF; 
+  background-color: #00A318; 
+}
+
+/*whiteOrange*/
+.btn-whiteOrange { 
+  color: #F57403; 
+  background-color: #FFFFFF; 
+  border-color: #F57403; 
+} 
+ 
+.btn-whiteOrange:hover, 
+.btn-whiteOrange:focus, 
+.btn-whiteOrange:active, 
+.btn-whiteOrange.active, 
+.open .dropdown-toggle.btn-whiteOrange { 
+  color: #F57403; 
+  background-color: #F5CDA9; 
+  border-color: #F57403; 
+} 
+ 
+.btn-whiteOrange:active, 
+.btn-whiteOrange.active, 
+.open .dropdown-toggle.btn-whiteOrange { 
+  background-image: none; 
+} 
+ 
+.btn-whiteOrange.disabled, 
+.btn-whiteOrange[disabled], 
+fieldset[disabled] .btn-whiteOrange, 
+.btn-whiteOrange.disabled:hover, 
+.btn-whiteOrange[disabled]:hover, 
+fieldset[disabled] .btn-whiteOrange:hover, 
+.btn-whiteOrange.disabled:focus, 
+.btn-whiteOrange[disabled]:focus, 
+fieldset[disabled] .btn-whiteOrange:focus, 
+.btn-whiteOrange.disabled:active, 
+.btn-whiteOrange[disabled]:active, 
+fieldset[disabled] .btn-whiteOrange:active, 
+.btn-whiteOrange.disabled.active, 
+.btn-whiteOrange[disabled].active, 
+fieldset[disabled] .btn-whiteOrange.active { 
+  background-color: #FFF4EB; 
+  border-color: #F57403; 
+} 
+ 
+.btn-whiteOrange .badge { 
+  color: #FFF4EB; 
+  background-color: #F57403; 
+}
+
+
+
+.btn-default2 {
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+}
+.btn-default2:hover,
+.btn-default2:focus,
+.btn-default2:active,
+.btn-default2.active,
+.open > .dropdown-toggle.btn-default2 {
+  color: #333;
+  background-color: #e6e6e6;
+  border-color: #adadad;
+}
+.btn-default2:active,
+.btn-default2.active,
+.open > .dropdown-toggle.btn-default2 {
+  background-image: none;
+}
+.btn-default2.disabled,
+.btn-default2[disabled],
+fieldset[disabled] .btn-default2,
+.btn-default2.disabled:hover,
+.btn-default2[disabled]:hover,
+fieldset[disabled] .btn-default2:hover,
+.btn-default2.disabled:focus,
+.btn-default2[disabled]:focus,
+fieldset[disabled] .btn-default2:focus,
+.btn-default2.disabled:active,
+.btn-default2[disabled]:active,
+fieldset[disabled] .btn-default2:active,
+.btn-default2.disabled.active,
+.btn-default2[disabled].active,
+fieldset[disabled] .btn-default2.active {
+  background-color: #fff;
+  border-color: #ccc;
+}
+.btn-default2 .badge {
+  color: #fff;
+  background-color: #333;
+}

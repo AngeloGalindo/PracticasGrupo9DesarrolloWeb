@@ -1,0 +1,18 @@
+C:\Documents and Settings\alumno.LABORATORIO\Mis documentos\Visual Studio 2008\Projects\ConsumeWS\ConsumeWS\bin\Debug\ConsumeWS.exe.config
+C:\Documents and Settings\alumno.LABORATORIO\Mis documentos\Visual Studio 2008\Projects\ConsumeWS\ConsumeWS\bin\Debug\ConsumeWS.exe
+C:\Documents and Settings\alumno.LABORATORIO\Mis documentos\Visual Studio 2008\Projects\ConsumeWS\ConsumeWS\bin\Debug\ConsumeWS.pdb
+C:\Documents and Settings\alumno.LABORATORIO\Mis documentos\Visual Studio 2008\Projects\ConsumeWS\ConsumeWS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\alumno.LABORATORIO\Mis documentos\Visual Studio 2008\Projects\ConsumeWS\ConsumeWS\obj\Debug\ConsumeWS.frmConsumeWS.resources
+C:\Documents and Settings\alumno.LABORATORIO\Mis documentos\Visual Studio 2008\Projects\ConsumeWS\ConsumeWS\obj\Debug\ConsumeWS.Properties.Resources.resources
+C:\Documents and Settings\alumno.LABORATORIO\Mis documentos\Visual Studio 2008\Projects\ConsumeWS\ConsumeWS\obj\Debug\ConsumeWS.csproj.GenerateResource.Cache
+C:\Documents and Settings\alumno.LABORATORIO\Mis documentos\Visual Studio 2008\Projects\ConsumeWS\ConsumeWS\obj\Debug\ConsumeWS.exe
+C:\Documents and Settings\alumno.LABORATORIO\Mis documentos\Visual Studio 2008\Projects\ConsumeWS\ConsumeWS\obj\Debug\ConsumeWS.pdb
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\ConsumeWS\ConsumeWS\bin\Debug\ConsumeWS.exe.config
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\ConsumeWS\ConsumeWS\obj\Debug\ConsumeWS.exe
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\ConsumeWS\ConsumeWS\obj\Debug\ConsumeWS.pdb
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\ConsumeWS\ConsumeWS\obj\Debug\ConsumeWS.csprojResolveAssemblyReference.cache
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\ConsumeWS\ConsumeWS\obj\Debug\ConsumeWS.frmConsumeWS.resources
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\ConsumeWS\ConsumeWS\obj\Debug\ConsumeWS.Properties.Resources.resources
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\ConsumeWS\ConsumeWS\obj\Debug\ConsumeWS.csproj.GenerateResource.Cache
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\ConsumeWS\ConsumeWS\bin\Debug\ConsumeWS.exe
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\ConsumeWS\ConsumeWS\bin\Debug\ConsumeWS.pdb

@@ -1,0 +1,52 @@
+<?php
+echo "<input type= 'hidden' id='input' value='".$_GET["input"]."'/>";
+?>
+<!DOCTYPE html>
+<html lang="en" >
+    <head>
+        <meta charset="utf-8" />
+         <link href="general_repository/libs/upload/css/main.css" rel="stylesheet" type="text/css" />
+        <script src="general_repository/libs/upload/js/script.js"></script>
+    </head>
+    <body>
+	 <div id="myDiv"></div>
+             <br/>          
+        <div class="container">
+           <div class="upload_form_cont">
+                <form id="upload_form" enctype="multipart/form-data" method="post" action="upload.php">
+                    <div>
+                        <div><input type="file" name="image_file" id="image_file" onchange="fileSelected();" size="30" /></div>
+                    </div>
+                    <div>
+                        <input type="button" value="Cargar Archivo" onclick="startUploading()" />
+                    </div>
+                    <div id="fileinfo">
+                        <div id="filename"></div>
+                        <div id="filesize"></div>
+                        <div id="filetype"></div>
+                        <div id="filedim"></div>
+                    </div>
+                    <div id="error"><!--Usted debe seleccionar los archivos válidos.--></div>
+                    <div id="error2">Se produjo un error al cargar el archivo</div>
+                    <div id="abort">La Carga ha sido cancelado por el usuario o el navegador a cortado la conexión</div>
+                    <div id="warnsize">Su archivo es muy grande. No podemos aceptarlo. Por favor, seleccione el archivo más peque&ntilde;o</div>
+
+                    <div id="progress_info">
+                        <div id="progress"></div>
+                        <div id="progress_percent">&nbsp;</div>
+                        <div class="clear_both"></div>
+                        <div>
+                            <div id="speed">&nbsp;</div>
+                            <div id="remaining">&nbsp;</div>
+                            <div id="b_transfered">&nbsp;</div>
+                            <div class="clear_both"></div>
+                        </div>
+                        <div id="upload_response"></div>
+                    </div>
+                </form>
+
+                <img id="preview" />
+            </div>
+        </div>
+    </body>
+</html>

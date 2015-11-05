@@ -1,0 +1,6 @@
+C:\Users\AngeloGalindo\Desktop\Proyectos Desarrollo Web\WebService.NET\WebService\WebService\bin\wsRomanos.dll.config
+C:\Users\AngeloGalindo\Desktop\Proyectos Desarrollo Web\WebService.NET\WebService\WebService\bin\wsRomanos.dll
+C:\Users\AngeloGalindo\Desktop\Proyectos Desarrollo Web\WebService.NET\WebService\WebService\bin\wsRomanos.pdb
+C:\Users\AngeloGalindo\Desktop\Proyectos Desarrollo Web\WebService.NET\WebService\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+C:\Users\AngeloGalindo\Desktop\Proyectos Desarrollo Web\WebService.NET\WebService\WebService\obj\Debug\wsRomanos.dll
+C:\Users\AngeloGalindo\Desktop\Proyectos Desarrollo Web\WebService.NET\WebService\WebService\obj\Debug\wsRomanos.pdb

@@ -1,0 +1,173 @@
+	.TESTcpYearNavigation,
+
+	.TESTcpMonthNavigation
+
+			{
+
+			background-color:#5c9ccc;
+			background: #5c9ccc url(images/ui-bg_gloss-wave_55_5c9ccc_500x100.png) 50% 50% repeat-x;
+			text-align:center;
+			vertical-align:center;
+			text-decoration:none;
+			color:#5c9ccc;
+			font-weight:bold;
+			}
+
+	.TESTcpDayColumnHeader,
+
+	.TESTcpYearNavigation,
+
+	.TESTcpMonthNavigation,
+
+	.TESTcpCurrentMonthDate,
+
+	.TESTcpCurrentMonthDateDisabled,
+
+	.TESTcpOtherMonthDate,
+
+	.TESTcpOtherMonthDateDisabled,
+
+	.TESTcpCurrentDate,
+
+	.TESTcpCurrentDateDisabled,
+
+	.TESTcpTodayText,
+
+	.TESTcpTodayTextDisabled,
+
+	.TESTcpText
+
+			{
+
+			font-family:arial;
+
+			font-size:10pt;
+padding: .2em .2em 0;
+			}
+
+	TD.TESTcpDayColumnHeader
+
+			{
+			text-align:right;
+			border:solid thin #5c9ccc;
+			border-width:0 0 1 0;
+			}
+
+	.TESTcpCurrentMonthDate,
+
+	.TESTcpOtherMonthDate,
+
+	.TESTcpCurrentDate
+
+			{
+			text-align:right;
+			text-decoration:none;
+			background: #d0e5f5 url(images/ui-bg_glass_75_d0e5f5_1x400.png) 50% 50% repeat-x;
+			font-weight: bold;
+			color: #1d5987;
+			}
+
+	.TESTcpCurrentMonthDateDisabled,
+
+	.TESTcpOtherMonthDateDisabled,
+
+	.TESTcpCurrentDateDisabled
+
+			{
+			color:#D0D0D0;
+			text-align:right;
+			text-decoration:line-through;
+			}
+
+	.TESTcpCurrentMonthDate
+
+			{
+			color:#5c9ccc;
+			font-weight:bold;
+			}
+
+	.TESTcpCurrentDate
+
+			{
+			color: #000000;
+			font-weight:bold;
+			background: #d0e5f5 url(images/ui-bg_flat_55_fbec88_40x100.png) 50% 50% repeat-x;
+			font-weight: bold;
+			color: #1d5987;
+			}
+
+	.TESTcpOtherMonthDate
+
+			{
+
+			color:#808080;
+
+			}
+
+	TD.TESTcpCurrentDate
+
+			{
+			border: 1px solid #fad42e;
+			background: #fbec88 url(images/ui-bg_flat_55_fbec88_40x100.png) 50% 50% repeat-x;
+			color: #363636;
+			border-width:1;
+			border:solid thin #000000;
+			}
+
+	TD.TESTcpCurrentDateDisabled
+
+			{
+
+			border-width:1;
+
+			border:solid thin #FFAAAA;
+
+			}
+
+	TD.TESTcpTodayText,
+
+	TD.TESTcpTodayTextDisabled
+
+			{
+
+			border:solid thin #5c9ccc;
+			
+			border-width:1 0 0 0;
+
+			}
+
+	A.TESTcpTodayText,
+
+	SPAN.TESTcpTodayTextDisabled
+
+			{
+
+			height:20px;
+
+			}
+
+	A.TESTcpTodayText
+
+			{
+
+			color:#5c9ccc;
+
+			font-weight:bold;
+
+			}
+
+	SPAN.TESTcpTodayTextDisabled
+
+			{
+
+			color:#D0D0D0;
+
+			}
+
+	.TESTcpBorder
+
+			{
+
+			border:solid thin #5c9ccc;
+
+			}

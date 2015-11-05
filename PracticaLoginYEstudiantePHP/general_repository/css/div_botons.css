@@ -1,0 +1,74 @@
+#divRefresh2{
+	position: relative;
+	box-shadow: 3px 3px 5px #A9E2F3;
+	-moz-box-shadow: 3px 3px 5px #A9E2F3;
+	-webkit-box-shadow: 3px 3px 5px #A9E2F3;
+	border-top-left-radius: 5px;
+border-top-right-radius: 25px;
+border-bottom-right-radius: 25px;
+border-bottom-left-radius: 25px;
+
+}
+
+.boton{
+	position: relative;
+
+
+}
+.boton3{
+	position: relative;
+	box-shadow: 3px 3px 5px #A9E2F3;
+	-moz-box-shadow: 3px 3px 5px #A9E2F3;
+	-webkit-box-shadow: 3px 3px 5px #A9E2F3;
+border-top-left-radius: 3px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+border-bottom-left-radius: 10px;
+}
+
+.boton2{
+	position: relative;
+	box-shadow: 3px 3px 5px #A9E2F3;
+	-moz-box-shadow: 3px 3px 5px #A9E2F3;
+	-webkit-box-shadow: 3px 3px 5px #A9E2F3;
+	border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+}
+.divPaste {
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-width: 2px; 
+border-style: dashed;
+border-color: #2E64FE; 
+}
+
+.RowHeader {
+	background-color: #8000FF; /* background color */
+	color: ; /* font color */
+}
+
+.headerEdit {
+	background-color: #F4FAFB; 
+	color: #2A769D;	
+	}
+
+.headerInsert {
+	background-color: #2D7090;
+	color: #FFFFFF;
+	}	
+	
+.headerView{
+	background-color: #F2F2F2; 
+	color: #2D7090;	
+	}	
+
+.headerTotal{
+	background-color: #CEE3F6; 
+	color: #2D7090;	
+	font-weight: bold;
+	
+	}	

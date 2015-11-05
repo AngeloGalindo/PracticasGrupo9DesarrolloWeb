@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PracticaMaestroDetalle.NET(1)", "http://localhost:63814", "{FE87243C-EF07-4591-920C-581066608EB4}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = ""
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60934"
+		Debug.AspNetCompiler.PhysicalPath = "..\PracticaMaestroDetalle.NET\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60934\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60934"
+		Release.AspNetCompiler.PhysicalPath = "..\PracticaMaestroDetalle.NET\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60934\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\PracticaMaestroDetalle.NET\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE87243C-EF07-4591-920C-581066608EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE87243C-EF07-4591-920C-581066608EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE87243C-EF07-4591-920C-581066608EB4}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FE87243C-EF07-4591-920C-581066608EB4}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE87243C-EF07-4591-920C-581066608EB4}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{FE87243C-EF07-4591-920C-581066608EB4}.Release|x64.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

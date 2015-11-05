@@ -1,0 +1,3 @@
+C:\Users\AngeloGalindo\Desktop\Proyectos Desarrollo Web\WebService.NET\ClienteWebService\ClienteWebService\bin\Debug\ConsumeWS.exe.config
+C:\Users\AngeloGalindo\Desktop\Proyectos Desarrollo Web\WebService.NET\ClienteWebService\ClienteWebService\obj\Debug\ConsumeWS.exe
+C:\Users\AngeloGalindo\Desktop\Proyectos Desarrollo Web\WebService.NET\ClienteWebService\ClienteWebService\obj\Debug\ConsumeWS.pdb

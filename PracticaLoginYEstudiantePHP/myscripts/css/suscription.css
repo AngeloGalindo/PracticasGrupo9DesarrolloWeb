@@ -1,0 +1,64 @@
+body, html {
+margin: 0;
+padding: 10px;
+background: #FFFFFF;
+text-align: center;
+font-family: arial; }
+           #content {
+            	padding: 1em;
+            	font-size: 1.1em;
+            	height: 100%;
+            }
+
+#tabs {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	height: 3em;
+	border-bottom: 1px solid #a40;
+}
+
+#tabs li {
+	float: left;
+	display: block;
+	height: 100%;
+	padding-left: 1em;
+	margin-right: 0.5em;
+	background: url(http://dev.css-zibaldone.com/onwebdev/post/tab-left.gif) no-repeat;
+}
+#tabs a {
+	float: left;
+	display: block;
+	height: 100%;
+	line-height: 3;
+	padding: 0 1em 0 0;
+	background: url(http://dev.css-zibaldone.com/onwebdev/post/tab-right.gif) no-repeat 100% 0;
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+}
+table {
+margin: auto;
+width: 590px;
+text-align: left;
+background: white;
+border-spacing: 0;
+}
+
+tr{
+background-color: #FFFFFF;
+color:black;
+}
+
+th:first-child {
+-moz-border-radius: 6px 0 0 0;
+-webkit-border-radius: 6px 0 0 0;
+border-radius: 6px 0 0 0;
+background-color: #0000FF;
+color:white
+}
+th:last-child {    
+-moz-border-radius: 0 6px 0 0;    
+-webkit-border-radius: 0 6px 0 0;    
+border-radius: 0 6px 0 0;
+}

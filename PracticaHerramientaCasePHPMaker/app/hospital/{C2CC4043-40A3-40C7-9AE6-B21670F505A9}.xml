@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<configuration date="2015/10/17" author="e.World Technology Ltd.">
+<project id="{C2CC4043-40A3-40C7-9AE6-B21670F505A9}" file="E:\wamp\www\hospital\phpmaker\hospital.pmp" name="hospital" product="PHPMaker" version="11.0" datetime="2015/10/17 02:31:06" languagefolder="phplang" userlevel="">
+<table id="consulta" name="consulta" caption="consulta" userlevel="" priv="1"/>
+<table id="continente" name="continente" caption="continente" userlevel="" priv="1"/>
+<table id="cuenta" name="cuenta" caption="cuenta" userlevel="" priv="1"/>
+<table id="departamento" name="departamento" caption="departamento" userlevel="" priv="1"/>
+<table id="doctor" name="doctor" caption="Doctor" userlevel="" priv="1"/>
+<table id="doctor_especialidad" name="doctor_especialidad" caption="doctor especialidad" userlevel="" priv="1"/>
+<table id="doctor_servicio_medico_prestado" name="doctor_servicio_medico_prestado" caption="doctor servicio medico prestado" userlevel="" priv="1"/>
+<table id="empleado" name="empleado" caption="empleado" userlevel="" priv="1"/>
+<table id="especialidad" name="especialidad" caption="especialidad" userlevel="" priv="1"/>
+<table id="habitacion" name="habitacion" caption="Habitación" userlevel="" priv="1"/>
+<table id="hospital" name="hospital" caption="Hospital" userlevel="" priv="1"/>
+<table id="internado" name="internado" caption="internado" userlevel="" priv="1"/>
+<table id="municipio" name="municipio" caption="municipio" userlevel="" priv="1"/>
+<table id="nivel" name="nivel" caption="Nivel" userlevel="" priv="1"/>
+<table id="paciente" name="paciente" caption="paciente" userlevel="" priv="1"/>
+<table id="pais" name="pais" caption="pais" userlevel="" priv="1"/>
+<table id="sala" name="sala" caption="Sala" userlevel="" priv="1"/>
+<table id="servicio_medico" name="servicio_medico" caption="servicio medico" userlevel="" priv="1"/>
+<table id="servicio_medico_prestado" name="servicio_medico_prestado" caption="servicio medico prestado" userlevel="" priv="1"/>
+<table id="tipo_turno" name="tipo_turno" caption="tipo turno" userlevel="" priv="1"/>
+<table id="turno" name="turno" caption="turno" userlevel="" priv="1"/>
+<table id="laboratorio" name="laboratorio" caption="laboratorio" userlevel="" priv="1"/>
+<table id="medicina" name="medicina" caption="medicina" userlevel="" priv="1"/>
+<table id="internado_diario" name="internado_diario" caption="internado diario" userlevel="" priv="1"/>
+<table id="receta" name="receta" caption="receta" userlevel="" priv="1"/>
+</project></configuration>

@@ -1,0 +1,54 @@
+body 
+{
+	font-family: 'Indie Flower';
+
+}
+
+.Navegacion
+{
+	/*background-color: blue;*/
+	border-bottom:1px solid #ddd
+}
+
+
+li 
+{
+	list-style: none;
+	display: inline-block;
+	padding: 15px;
+	font-size: 25px;
+	width: 260px;
+}
+
+a:hover 
+{
+	border-color:#eee #eee #ddd;
+	background-color: #ccc;
+}
+
+.Navegacion>li
+{
+float:left;
+margin-bottom:-1px
+}
+
+a 
+{
+	margin-right:2px;
+	line-height:1.42857143;
+	border:none solid transparent;
+	border-radius:4px 4px 0 0;
+
+}
+
+
+a 
+{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover
+{
+	text-decoration: none;
+}

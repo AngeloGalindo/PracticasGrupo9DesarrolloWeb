@@ -1,0 +1,11 @@
+C:\Documents and Settings\alumno.LABORATORIO\Mis documentos\Visual Studio 2008\Projects\wsRomanos\wsRomanos\bin\wsRomanos.dll
+C:\Documents and Settings\alumno.LABORATORIO\Mis documentos\Visual Studio 2008\Projects\wsRomanos\wsRomanos\bin\wsRomanos.pdb
+C:\Documents and Settings\alumno.LABORATORIO\Mis documentos\Visual Studio 2008\Projects\wsRomanos\wsRomanos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\alumno.LABORATORIO\Mis documentos\Visual Studio 2008\Projects\wsRomanos\wsRomanos\obj\Debug\wsRomanos.dll
+C:\Documents and Settings\alumno.LABORATORIO\Mis documentos\Visual Studio 2008\Projects\wsRomanos\wsRomanos\obj\Debug\wsRomanos.pdb
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\wsRomanos\wsRomanos\bin\wsRomanos.dll.config
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\wsRomanos\wsRomanos\bin\wsRomanos.dll
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\wsRomanos\wsRomanos\bin\wsRomanos.pdb
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\wsRomanos\wsRomanos\obj\Debug\wsRomanos.csprojResolveAssemblyReference.cache
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\wsRomanos\wsRomanos\obj\Debug\wsRomanos.dll
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\wsRomanos\wsRomanos\obj\Debug\wsRomanos.pdb

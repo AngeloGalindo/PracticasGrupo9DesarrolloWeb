@@ -1,0 +1,6 @@
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\wsRomanos\wsRomanos\obj\Release\wsRomanos.csprojResolveAssemblyReference.cache
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\wsRomanos\wsRomanos\bin\wsRomanos.dll.config
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\wsRomanos\wsRomanos\bin\wsRomanos.dll
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\wsRomanos\wsRomanos\bin\wsRomanos.pdb
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\wsRomanos\wsRomanos\obj\Release\wsRomanos.dll
+C:\Users\AngeloGalindo\Desktop\WebService\Web Service .Net 2008\wsRomanos\wsRomanos\obj\Release\wsRomanos.pdb

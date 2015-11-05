@@ -1,0 +1,2 @@
+<center><img src='general_repository/image/parent.png' alt='ERROR!!'><br/><big><big><big><b>Sin Clientes Relacionados...</b></big><br/>Arrastra aqu&iacute; a un cliente para relacionarlo!!</big></big></center>
+	

@@ -1,0 +1,338 @@
+body 
+{
+	background-image: url('../imagenes/body/grey1.png'); /*textura de fondo de la pagina.*/
+	/*margin: 0 0 100px;*/
+}
+
+/*.container*/
+footer, .navbar-nav
+{
+	background-image: url('../imagenes/cuerpo/greywash.png'); /*siempre colocar los .. porque sino no obtendra la ubicacion*/
+	padding-top: 15px;
+	padding-bottom: 10px;
+	color:#DFD3B6;
+}
+
+/*Fondo para el menu responsive*/
+
+.navbar-nav
+{
+	background-color: red;
+}
+
+footer p 
+{
+	font-size: 15px;
+}
+
+.encabezadoheader
+{
+	background-image: url('../imagenes/cuerpo/greywash.png');
+}
+
+.nav3, 
+{
+	background-image: url('../imagenes/cuerpo/greywash.png'); /*siempre colocar los .. porque sino no obtendra la ubicacion*/
+	border-radius: 10px;
+}
+
+
+
+.container
+{
+	margin-bottom: 0px;
+}
+
+/*border a header*/
+.page-header, nav 
+{
+	border-radius: 8px;
+}
+
+.Nav2
+{
+	border-radius: 13px 13px 0px 0px;
+
+}
+
+.TextNavOtro
+{
+	font-family: cursive;
+	font-size: 50px;
+}
+
+.espacio
+{
+	margin-left: 350px;
+}
+
+
+div #fotoheader
+{
+	width: 160px;
+	text-align: center;
+}
+
+.TextEnc1
+{
+	font-family: 'Montserrat';
+	color: white;
+
+}
+
+.TextEnc2
+{
+	font-family: 'Indie Flower';
+	color:white;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+
+}
+
+p
+{
+	font-family: 'Josefin Sans';
+	font-size: 18px;
+}
+
+/*Texto para el navegador*/
+.TextNav
+{
+	font-size: 20px;
+	font-family: 'Handlee';
+	font-weight: bold;
+}
+
+.TextNav a 
+{
+	/*color:#0092B2;*/
+	color: #0092B2;
+}
+
+/*Menu responsive*/
+
+.TextNavMenu
+{
+	color: black;
+}
+
+.TextoMenuResponsive
+{
+	font-size: 12px;
+	color: white;
+}
+
+
+/*iconos*/
+
+li 
+{
+	font-family: 'Handlee';
+	font-size: 15px;
+	font-weight: bold;
+}
+
+li:hover
+{
+	background-color: #ccc;
+	border-radius: 6px;
+}
+
+header a 
+{
+	color: white;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+header a:hover
+{
+	text-decoration: none;
+}
+
+.icon-facebook2:hover
+{
+	color: #3b5998;
+	background-color: white;
+	border-radius: 4px;
+}
+
+.icon-google-plus2:hover 
+{
+	color: #d34836;
+	background-color: white;
+	border-radius: 4px;
+}
+
+
+.icon-instagram2:hover 
+{
+	color: #3f729b;
+	background-color: white;
+	border-radius: 4px;
+}
+
+
+.icon-youtube3:hover 
+{
+	color: #cc181e;
+	background-color: white;
+	border-radius: 4px;
+}
+
+.icon-twitter2:hover
+{
+	color: #55acee;
+	background-color: white;
+	border-radius: 4px;
+}
+
+.icon-twitter2, .icon-google-plus2, .icon-instagram2, .icon-youtube3
+{
+	margin-left: 25px;
+}
+
+.icon-twitter2, .icon-google-plus2, .icon-instagram2, .icon-youtube3, .icon-facebook2
+{
+	color: white;
+	font-size: 20px;
+}
+
+/*Foto de Tulate*/
+
+.foto1, .foto3, .foto4
+{
+	width: 420px;
+	height: 350px;
+}
+
+.Text-Bienvenido
+{
+	color: #5F5448;
+}
+
+.Text-pie-foto
+{
+	color:#5F5448;
+	font-size: 15px;
+}
+
+.TituloFotos
+{
+	color: #0092B2;
+}
+
+.TextoFotos
+{
+	color: #5F5448; /*Color cafe*/
+	font-size: 16px;
+}
+
+.foto2
+{
+	width: 420px;
+	height: 330px;
+}
+
+/*Fondo encabezado*/
+
+.jumbotron
+{
+	padding-bottom: 0px;
+}
+
+/*Boton ir arriba*/
+
+.ir-arriba {
+	display:none;
+	padding:20px;
+	background:#024959;
+	font-size:20px;
+	color:#fff;
+	cursor:pointer;
+	position: fixed;
+	bottom:78px; /*con este margen queda exactamente arriba del footer*/
+	right:20px;
+}
+
+/*..................................... PAGINA DE CURRICULUM VITAE .............................................*/
+
+/*Encabezado del curriculum, aqui va el nombre y año*/
+
+/*Texto encabezado de cv*/
+.TextoEncabezadoCv
+{
+	font-family: 'Josefin Sans';
+	font-size: 18px;
+}
+
+/*margen para celdas*/
+
+.table .td 
+{
+	padding-left: 50px;
+}
+
+.table 
+{
+	border-top: 3px solid #A8C545;
+	border-bottom: 3px solid #A8C545;
+	font-family: 'Josefin Sans';
+}
+
+/*Texto contenido del cv*/
+
+.TextoContenidoCv
+{
+	font-family: 'Josefin Sans';
+}
+
+.TextoContenidoCv h3
+{
+	color: #0092B2;
+	border-bottom: 1px solid #DFD3B6;
+}
+
+/* ----------------------------------- PAGINA DE TUTORIALES ----------------------------------------------------*/
+
+.FondoTutorial:hover
+{
+	background-color: #DFD3B6;
+}
+
+.PuntoFormulario
+{
+	color: white;
+}
+
+.TextoFormulario
+{
+	font-family: 'Josefin Sans';
+}
+
+
+/* ----------------------------------- PAGINA DE TUTORIALES ----------------------------------------------------*/
+
+.BannerContacto
+{
+	width: 1100px;
+
+}
+
+/*.Call-center3
+{
+	width: 400px;
+}*/
+
+.TextoEnviar1
+{
+	font-family: 'Josefin Sans';
+	color: #A8C545;
+	font-size: 2.5em;
+
+}
+
+.TextoEnviar2
+{
+	font-size: 1.5em;
+}

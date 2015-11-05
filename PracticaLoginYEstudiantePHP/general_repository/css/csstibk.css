@@ -1,0 +1,101 @@
+@charset "UTF-8";
+.cssti
+a:link {color:#FFF; vertical-align:central;}      /* unvisited link */
+a:visited {color:#00FF00;}  /* visited link */
+a:hover {color: #CCC;}  /* mouse over link */
+a:active {color:#0000FF;}  /* selected link */
+
+#leftdiv {background-color:#dde9fc;height:60%;width:49%; position:absolute; left:50%;top:34%;}
+#rightdiv { position:absolute; height:575px;width:410px;float:left;}
+#foot1 {
+	position: absolute;
+	top: 90%;
+	height: 40px;
+	width: 50%;
+	background-color: #4c91f9;
+	padding: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFF;
+	font-size: 11px;
+	text-align: left;
+}
+#foot2 {
+	position: absolute;
+	left:50%;
+	top: 90%;
+	height: 20px;
+	width: 46%;
+	background-color: #4c91f9;
+	padding: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFF;
+	font-size: 11px;
+	text-align: right;
+	vertical-align:middle;
+	
+	}
+#man {position:absolute; left:80px; top:30%;}
+
+#form1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 200px;
+	height: 119px;
+	position: absolute;
+	left: 195px;
+	top: 199px;
+}
+
+#fondo { position:absolute; width:1024px; height:137px;
+	background: url(../images/onepix.png);
+}
+
+#apDiv1 {
+	position: absolute;
+	width: 50%;
+	height: 115px;
+	z-index: 1;
+	left: 50%;
+	top: 15%;
+}
+#apDiv2 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 2;
+	left: 31px;
+	top: 50px;
+}
+#apDiv3 {
+	position: absolute;
+	width: 586px;
+	z-index: 1;
+	left: 10%;
+	top: 5%;
+	text-align:center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight:bold;
+}
+#table_login {
+  	position: absolute;
+  	left: 30%;
+	top: 18%;
+	width: 400px;
+	height: 100px;
+}
+#lineDiv {
+  	position: absolute;
+	top: 0px;
+	width: 98%;
+	height: 100px;
+}
+/*Apply this class to some text to unlock the secrets of the third dimension!*/
+.Three-Dee{
+font-family: 'Times New Roman', Times, sans-serif;
+line-height: 1em;
+color: #ffffff;
+font-weight:bold;
+font-size: 36px;
+text-shadow:0px 0px 0 rgb(215,215,215),1px 1px 0 rgb(185,185,185),2px 2px 0 rgb(155,155,155),3px 3px 0 rgb(125,125,125),4px 4px 0 rgb(95,95,95), 5px 5px 0 rgb(65,65,65),6px 6px 5px rgba(0,0,0,0.6),6px 6px 1px rgba(0,0,0,0.5),0px 0px 5px rgba(0,0,0,.2);}
+    
